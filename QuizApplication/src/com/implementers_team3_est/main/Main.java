@@ -6,7 +6,7 @@ import com.implementersteam3est.admin.QuizCreater;
 import com.implementersteam3est.admin.QuizService;
 
 public class Main {
-
+//its clone repository ttt
 	public static void main(String[] args) {
 //      Ashim Code		
 //		System.out.println("This is Quiz App.");
